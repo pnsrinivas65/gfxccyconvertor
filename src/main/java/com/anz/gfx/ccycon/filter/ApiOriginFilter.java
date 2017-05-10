@@ -9,7 +9,6 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletResponse;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.SpringMVCServerCodegen", date = "2017-05-07T18:34:06.013+05:30")
 public class ApiOriginFilter implements javax.servlet.Filter {
 	@Override
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
